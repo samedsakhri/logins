@@ -1,0 +1,45 @@
+*
+{
+    padding: 1px;
+    margin: 1px;
+}
+
+
+
+
+ 
+.form-control
+{
+    width:50% ;
+}
+#email
+{
+  width:32%;
+
+}
+#firstname
+{
+  width:32%;
+  
+}
+#lastname
+{
+  width:32%;
+  
+}
+#password
+{
+  width:32%;
+  
+}
+
+
+form
+{
+   margin-left:40px;
+   margin-top:35px;
+}
+#sign_in
+{
+  float:right;
+}
