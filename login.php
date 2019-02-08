@@ -16,7 +16,7 @@
         <a class="nav-link" href="#">Categories</a>
     </li>
     <li class="nav-item">
-        <a class="nav-link" href="#">search</a> 
+        <a class="nav-link" href="#">search</a>
     </li>
     <li class="nav-item">
         <a class="nav-link " id="sign_in" href="#">Sign in</a>
@@ -25,7 +25,7 @@
 </nav>
 <br/>
 
-
+<h1>  InScription   </h1>
 <form>
     <div class="form-group row">
         <label for="firstname" class="col-sm-2 col-form-label">Firstname</label>
